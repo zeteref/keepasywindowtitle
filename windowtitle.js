@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         keepassytitle
-// @namespace    http://discworld
+// @namespace    https://github.com/zeteref/keepasywindowtitle/
 // @version      0.3
 // @description  add domain to window title to work with keepass
 // @author       zeteref
