@@ -11,5 +11,5 @@
 (function() {
     'use strict';
 
-     document.title = document.title + " - [keepass:" + window.location.hostname + "]";
+     document.title = document.title + " - [keepass:" + document.location + "]";
 })();
